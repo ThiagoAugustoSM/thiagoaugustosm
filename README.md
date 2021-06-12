@@ -8,7 +8,7 @@ My name is Thiago Augusto and over here I try to create different projects, lear
 
 ⚡   Fun fact: I was confused with with The professor from Money Heist several times in Brazilian carnaval. (I didn't even know who that was at the time lol)
 
-📫  How to reach me: you can ping me on [linkedin](https://www.linkedin.com/in/thiagoaugustosm/) to a quick chat.
+📫  Wanna talk? ping me on [linkedin](https://www.linkedin.com/in/thiagoaugustosm/) to a quick chat.
 <!--
 **ThiagoAugustoSM/thiagoaugustosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
