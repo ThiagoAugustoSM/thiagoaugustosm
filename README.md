@@ -1,7 +1,6 @@
-![banner (2)](https://user-images.githubusercontent.com/19818077/121789932-a8b44080-cbb0-11eb-90f3-0a36a0198dd8.png)
-<!-- ![banner (1)](https://user-images.githubusercontent.com/19818077/121789881-262b8100-cbb0-11eb-9171-5e51882397f3.png) -->
+![Banner image)](https://user-images.githubusercontent.com/19818077/121789945-d26d6780-cbb0-11eb-94c9-f16a0a1c93d1.png)
 
-My name is Thiago Augusto and over here I try to create different projects, learn and help the community to build awesome things!
+Hello! Over here I try to create different projects, learn from the community and keep my creative side alive! I usually mix different skills, technologies, and arts into the projects I'm working on.
 
 🌱   I’m currently learning how to write blog posts. If you want to check out how I'm doing, take a look at [serenpit](https://serenpit.com).
 
