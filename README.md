@@ -1,5 +1,11 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/19818077/121789788-62aaad00-cbaf-11eb-9afc-afbe1dc69f90.png)
 
+My name is Thiago Augusto and over here I try to create different projects, learn and help the community to build awesome things!
+
+- 🌱  I’m currently learning how to write blog posts. If you want to check out how I'm doing, take a look at [serenpit](https://serenpit.com).
+- 😄  Pronouns: He/Him
+- ⚡  Fun fact: I was confused with with The professor from Money Heist several times in Brazilian carnaval. (I didn't even know who that was at the time lol)
+- 📫 How to reach me: you can ping me on [linkedin](https://www.linkedin.com/in/thiagoaugustosm/) to a quick chat.
 <!--
 **ThiagoAugustoSM/thiagoaugustosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
