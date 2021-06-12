@@ -1,4 +1,5 @@
-![banner (1)](https://user-images.githubusercontent.com/19818077/121789881-262b8100-cbb0-11eb-9171-5e51882397f3.png)
+![banner (2)](https://user-images.githubusercontent.com/19818077/121789932-a8b44080-cbb0-11eb-90f3-0a36a0198dd8.png)
+<!-- ![banner (1)](https://user-images.githubusercontent.com/19818077/121789881-262b8100-cbb0-11eb-9171-5e51882397f3.png) -->
 
 My name is Thiago Augusto and over here I try to create different projects, learn and help the community to build awesome things!
 
